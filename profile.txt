@@ -1,0 +1,121 @@
+AISWARYA BABY
+Scarborough, ON
+📧 Email: babyaiswarya180@gmail.com
+📞 Phone: +1 (437)-665-5403
+🌐 Portfolio: https://aishuse.github.io/portfolio/
+🔗 LinkedIn: https://www.linkedin.com/in/aiswarya-baby/
+💻 GitHub: https://github.com/aishuse
+
+Aspiring Data Scientist | Generative AI & Agentic AI Enthusiast | Python Django Developer | FastAPI Learner
+
+🔹 SUMMARY OF QUALIFICATIONS
+Python & Django Developer (2+ years): REST APIs, scalable apps, bug fixes
+
+ML/DL/NLP: Scikit-Learn, TensorFlow, Keras, Hugging Face
+
+Generative & Agentic AI: LangChain, LangGraph, Agno, RAG pipelines, Model Context Protocol(MCP)
+
+FastAPI & Deployment: Pydantic, Streamlit, Docker, AWS (S3, EC2)
+
+Big Data Tools: Hadoop, Spark, Hive
+
+Visualization: Pandas, Power BI, Matplotlib
+
+SQL & Databases: Complex queries and optimization
+
+Soft Skills: Collaboration, analytical mindset, mentoring
+
+🔹 IMMIGRATION STATUS
+Valid Study Permit (Canada) – Expires: December 2025
+
+Will apply for Post-Graduation Work Permit (PGWP) after degree
+
+my course will end on august 28, 2025. graduation expected on October 16, 2025
+
+🔹 EDUCATION
+MSc – Data Science and Analytics (In Progress)
+Toronto Metropolitan University | Sep 2024 – Aug 2025
+Courses: ML, DL, NLP, Data Mining, Big Data, Algorithms
+
+M.Tech – Computer Science & Info Systems
+APJ Abdul Kalam Technological University | May 2017
+
+B.Tech – Computer Science and Engineering
+Mahatma Gandhi University | May 2013
+
+🔹 EXPERIENCE
+Graduate Student – Data Science & Analytics
+Toronto Metropolitan University | Sep 2024 – Present
+
+Research in ML, DL, NLP, Big Data
+
+Built predictive models with Python, Scikit-Learn, TensorFlow
+
+Python Django Developer
+SayOne Technologies | Nov 2021 – Aug 2024
+
+Developed Django web apps (20% performance gain)
+
+Created RESTful APIs and wrote developer-friendly documentation
+
+Coding Instructor
+PurpleTutor (Remote) | 2021 – 2024
+
+Taught 25+ students Python, ML, and web development
+
+🔹 PROJECTS
+🧠 Brain Tumor Prediction
+GitHub: https://github.com/aishuse/Brain-tumor-classification
+Streamlit: https://brain-tumor-class-ais.streamlit.app/
+
+📸 Visual Question Answering (CNN + LSTM + Attention)
+GitHub: https://github.com/aishuse/Visual-Question-Answering
+Streamlit: https://visual-question-answering-ais.streamlit.app/
+
+🏡 Bangalore House Price Prediction
+GitHub: https://github.com/aishuse/House-Price-Prediction
+Streamlit: https://house-price-pred-blr-ais.streamlit.app/
+
+💬 AI Assistant Chatbot (LangChain + Streamlit)
+GitHub: https://github.com/aishuse/My-Assistant-Chatbot
+Streamlit: https://my-assistant-chatbot.streamlit.app/
+
+📄 PDF Q&A Assistant (LangChain + FAISS)
+GitHub: https://github.com/aishuse/PDF-Assistant
+Streamlit: https://pdf-assistant-ais.streamlit.app/
+
+🌦️ Travel Assistant (Agno + Groq + Streamlit)
+GitHub: https://github.com/aishuse/Travel-Assistant
+Streamlit: https://travel-assistant-ais.streamlit.app/
+
+🏥 Patient Management System (FastAPI + LangChain+ AWS+ streamlit+ Docker+ Groq )
+GitHub: https://github.com/aishuse/Patient-management-system
+Streamlit: https://patient-management-system-ais.streamlit.app/
+
+📺 YouTube Transcript QA Assistant
+GitHub: https://github.com/aishuse/TranscriptYT
+Streamlit: https://youtube-transcript-chat.streamlit.app/
+
+working on Bank customer churn prediction as academic project
+
+🔹 PUBLICATIONS
+Exploring Advanced Techniques for Visual Question Answering
+https://arxiv.org/abs/2502.14827
+
+Data Leak Detection and Prevention Survey
+https://www.ijarcs.info/index.php/Ijarcs/article/view/3925
+
+Cryptography + Steganography – A Literature Survey
+https://www.ijarcs.info/index.php/Ijarcs/article/view/3145
+
+🔹 TRAINING & CERTIFICATIONS
+Big Data Analytics & Data Science – NACTET, 2023 (via Luminar Technolab)
+
+Python Web Development Expert – NACTET, 2021 (via Luminar Technolab)
+
+Web App Development – KELTRON, 2015
+
+Several Coursera certifications in DS, ML, and AI
+
+🔹 PERSONAL INTERESTS
+Dance | Music | Travel | Movies | Spending time with my child
