@@ -2,6 +2,35 @@ import streamlit as st
 from core import chatbot
 from langchain_core.messages import HumanMessage
 
+
+st.set_page_config(page_title="Aiswarya’s AI Assistant", page_icon="🤖", layout="wide")
+# Custom CSS for wider layout and better styling
+st.markdown("""
+    <style>
+        .main {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 0rem;
+        }
+        .title {
+            font-size: 34px;
+            font-weight: bold;
+            text-align: center;
+            color: #FF4B4B;
+        }
+        .subtitle {
+            font-size: 20px;
+            text-align: center;
+            color: #bbbbbb;
+        }
+
+    </style>
+""", unsafe_allow_html=True)
+
+
+st.markdown('<div class="title">Aiswarya’s AI Assistant 🤖</div>', unsafe_allow_html=True)
+st.markdown('<div class="subtitle">Ask anything about Aiswarya Baby’s profile, skills, projects, or experience</div>', unsafe_allow_html=True)
+st.markdown("---")
 # st.session_state -> dict -> 
 CONFIG = {'configurable': {'thread_id': 'thread-1'}}
 
