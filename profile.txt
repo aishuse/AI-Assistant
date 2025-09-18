@@ -11,11 +11,11 @@ Aspiring Data Scientist | Generative AI & Agentic AI Enthusiast | Python Django 
 🔹 SUMMARY OF QUALIFICATIONS
 Python & Django Developer (2+ years): REST APIs, scalable apps, bug fixes
 
-ML/DL/NLP: Scikit-Learn, TensorFlow, Keras, Hugging Face
+ML/DL/NLP: Scikit-Learn, TensorFlow, Keras, Hugging Face, Transformers, MLOps
 
-Generative & Agentic AI: LangChain, LangGraph, Agno, RAG pipelines, Model Context Protocol(MCP)
+Generative & Agentic AI: LangChain, LangGraph, Agno, RAG pipelines, Model Context Protocol(MCP), n8n,
 
-FastAPI & Deployment: Pydantic, Streamlit, Docker, AWS (S3, EC2)
+FastAPI & Deployment: Pydantic, Streamlit, Docker, AWS (S3, EC2, ECR)
 
 Big Data Tools: Hadoop, Spark, Hive
 
@@ -24,13 +24,14 @@ Visualization: Pandas, Power BI, Matplotlib
 SQL & Databases: Complex queries and optimization
 
 Soft Skills: Collaboration, analytical mindset, mentoring
+ APIs andFrameworks: Django, FastAPI, REST APIs, Pydantic
 
 🔹 IMMIGRATION STATUS
 Valid Study Permit (Canada) – Expires: December 2025
 
 Will apply for Post-Graduation Work Permit (PGWP) after degree
 
-my course will end on august 28, 2025. graduation expected on October 16, 2025
+my course ended on august 28, 2025. graduation expected on October 16, 2025
 
 🔹 EDUCATION
 MSc – Data Science and Analytics (In Progress)
@@ -64,6 +65,21 @@ PurpleTutor (Remote) | 2021 – 2024
 Taught 25+ students Python, ML, and web development
 
 🔹 PROJECTS
+
+Predicting Bank Customer Churn – End-to-End ML + Generative AI Workflow
+Tech Stack: Python, LightGBM, XGBoost, DVC, MLflow, Docker, FastAPI, Streamlit, GitHub Actions, AWS EC2, LangChain, Groq, LangGraph
+Built an end-to-end ML pipeline (DVC) to predict churn using LightGBM with SMOTE, feature engineering, and RFECV for feature selection.
+Developed real-time churn prediction for individual customers via a Streamlit interface integrated with a FastAPI backend. Also Integrated Generative AI (LangChain + Groq) to provide business-friendly explanations for individual customer churn predictions.
+Implemented Bulk Churn Detection & Retention Email workflow: automatically identifies churned customers and sends personalized retention emails using Gmail SMTP, orchestrated with LangGraph.
+Tracked experiments and deployed models via MLflow Registry on AWS EC2.
+Automated CI/CD with GitHub Actions, containerized with Docker, and implemented logging & monitoring.
+Live link: ec2-34-201-147-159.compute-1.amazonaws.com:8080 
+
+AI-driven Recruitment Assistant using n8n
+Automated resume filtering, candidate shortlisting, and interview scheduling using n8n, Pinecone, Airtable, and OpenAI.
+Reduced manual screening time by 50%, accelerating the recruitment process.
+link: https://www.linkedin.com/feed/update/urn:li:activity:7365937817044049920/
+
 🧠 Brain Tumor Prediction
 GitHub: https://github.com/aishuse/Brain-tumor-classification
 Streamlit: https://brain-tumor-class-ais.streamlit.app/
@@ -79,6 +95,13 @@ Streamlit: https://house-price-pred-blr-ais.streamlit.app/
 💬 AI Assistant Chatbot (LangChain + Streamlit)
 GitHub: https://github.com/aishuse/My-Assistant-Chatbot
 Streamlit: https://my-assistant-chatbot.streamlit.app/
+
+RAG-Based PDF Q&A System
+Developed a document Q&A system with LangChain, FAISS, and LLMs. link: https://github.com/aishuse/PDF-Assistant
+
+Newcomer Assistance Crew
+Built an AI assistant for newcomers in Canada using CrewAI and Gemini LLM. Integrated web scraping and structured data for personalized job, housing, and healthcare recommendations.
+link:https://github.com/aishuse/settlement-advisor
 
 📄 PDF Q&A Assistant (LangChain + FAISS)
 GitHub: https://github.com/aishuse/PDF-Assistant

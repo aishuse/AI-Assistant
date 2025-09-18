@@ -11,8 +11,8 @@ from langchain_core.output_parsers import StrOutputParser
 
 
 load_dotenv()
-
-llm = ChatGroq(model_name="llama3-70b-8192")
+model = os.environ.get('GROQ_MODEL')
+llm = ChatGroq(model_name=model)
 
 # Load profile text
 base_dir = os.path.dirname(os.path.abspath(__file__))
